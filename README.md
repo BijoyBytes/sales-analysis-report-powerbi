@@ -17,10 +17,6 @@ This project demonstrates the use of Power BI to analyze sales performance and p
 - Compare **sales performance across channels** (Store, Online, Reseller, Mobile Outlet)  
 - Enable **state-level analysis** using location filters to assess regional performance  
 
-## 📝 Project Overview
-
-This project analyzes sales data to evaluate business performance using interactive Power BI dashboards. It focuses on key metrics such as sales, profit, and profit margin to uncover trends, product performance, and channel effectiveness for data-driven decision-making.
-
 ![Library_project](https://github.com/BijoyBytes/retail-sales-analysis-powerbi/blob/main/TOOLS.png)
 ## 🧩 Dataset & Tables
 
